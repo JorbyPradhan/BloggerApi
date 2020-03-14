@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Networking</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string name="more_app">What is Networking</string>
+    <string name="rate_app">Which Book We Need to Learn</string>
+    <string name="settings">Type Of Network</string>
+    <string name="help">What is Network Infrastructure</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+
+    <string name="newfeature">New Feature</string>
+    <string name="dental">Dental</string>
+    <string name="mental">Mental</string>
+    <string name="bone">Bone</string>
+    <string name="cancer">Cancer</string>
+    <string name="common">Common Diseases</string>
+    <string name="other">Other</string>
+    <string name="basic">Basic</string>
+
+    <string name="invite">Knowledge of Networking</string>
+    <string name="favourite">Learn from video</string>
+    <string name="readlater">Job</string>
+    <string name="rate">About</string>
+    <string name="exit">Exit</string>
+
+    <string name="beauty_title">Beauty</string>
+    <string name="mental_title">Mental</string>
+    <string name="dental_title">Dental</string>
+    <string name="bone_title">Bone</string>
+    <string name="cancer_title">Cancer</string>
+    <string name="common_title">Commom Disease</string>
+    <string name="other_title">Other</string>
+    <string name="invite_title">Invite Friends</string>
+    <string name="read_title">Read Later</string>
+    <string name="rateapp_title">Rate App</string>
+    <string name="setting_title">Settings</string>
+    <string name="favourite_title">Favourite</string>
+
+    <string name="item_cause">Cause</string>
+    <string name="item_symptom">Symptom</string>
+    <string name="item_treatment">Treatment</string>
+    <string name="item_phone">Phone :</string>
+    <string name="item_email">Email :</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">close</string>
+
+</resources>

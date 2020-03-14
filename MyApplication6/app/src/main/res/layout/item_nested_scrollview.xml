@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="16dp"
+    card_view:cardBackgroundColor="@color/colorPrimaryDark"
+    android:background="@color/colorPrimaryDark"
+    android:elevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+      <!--  <me.biubiubiu.justifytext.library.JustifyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/datas"
+            android:layout_marginLeft="15dp"
+            android:textSize="20sp"
+            android:text="asa"
+            android:lineSpacingMultiplier="1.1"
+
+          >-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="asa"
+            android:id="@+id/datas"
+            android:layout_marginLeft="15dp"
+            android:textSize="18sp"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:textColor="#eeb14f"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp" />
+        <!--</me.biubiubiu.justifytext.library.JustifyTextView>
+-->
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

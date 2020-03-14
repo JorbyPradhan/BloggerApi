@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/newfeature"
+            android:title="@string/newfeature"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:id="@+id/basic"
+            android:title="@string/basic"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/dental"
+            android:title="@string/dental"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/mental"
+            android:title="@string/mental"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/bone"
+            android:title="@string/bone"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/cancer"
+            android:title="@string/cancer"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/common"
+            android:title="@string/common"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/other"
+            android:title="@string/other"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/invite"
+            android:title="@string/invite"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/favourite"
+            android:title="@string/favourite"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/readlater"
+            android:title="@string/readlater"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/rate"
+            android:title="@string/rate"
+            android:icon="@drawable/ic_action_storage"/>
+        <item
+            android:id="@+id/settings"
+            android:title="@string/settings"
+            android:icon="@drawable/ic_action_storage"/>
+
+        <item
+            android:id="@+id/exit"
+            android:title="@string/exit"
+            android:icon="@drawable/ic_action_storage"/>
+
+    </group>
+</menu>
